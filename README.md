@@ -1,6 +1,12 @@
 # 🎓 Research Buddy
 *Effortless AI-powered research assistance*
 
+> **This is the original prototype.** Active development continued in
+> [research-buddy-nextgen](https://github.com/JAGHDHEEP/research-buddy-nextgen) (hybrid RAG,
+> evaluation harness, CI) and
+> [research-buddy-evidence-desk](https://github.com/JAGHDHEEP/research-buddy-evidence-desk)
+> (auditable claim review).
+
 ## 📖 About
 Research Buddy helps research scholars get quick and accurate answers from their uploaded research papers using advanced AI technology.
 
